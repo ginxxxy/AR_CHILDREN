@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.44657868, g: 0.49641263, b: 0.57481706, a: 1}
+  m_IndirectSpecularColor: {r: 0.44657826, g: 0.49641263, b: 0.57481676, a: 1}
 --- !u!157 &3
 LightmapSettings:
   m_ObjectHideFlags: 0
@@ -1420,13 +1420,11 @@ MonoBehaviour:
   m_GameObject: {fileID: 583117836}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 60b6ef5d5690e498eb47f7f9f00d43d2, type: 3}
+  m_Script: {fileID: 11500000, guid: ace6dc7beaae744af8a2b3b33311c893, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   wand1: {fileID: 1109238297}
   wand2: {fileID: 181918322}
-  wand3: {fileID: 1291487153}
-  wand4: {fileID: 680529265}
 --- !u!4 &583117838
 Transform:
   m_ObjectHideFlags: 0
@@ -1561,6 +1559,10 @@ Prefab:
     - target: {fileID: 106404, guid: ca8bafd9a86d1c84a9a66e519b492835, type: 2}
       propertyPath: m_TagString
       value: wand4
+      objectReference: {fileID: 0}
+    - target: {fileID: 106404, guid: ca8bafd9a86d1c84a9a66e519b492835, type: 2}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: ca8bafd9a86d1c84a9a66e519b492835, type: 2}
@@ -2774,6 +2776,10 @@ Prefab:
       propertyPath: m_TagString
       value: wand3
       objectReference: {fileID: 0}
+    - target: {fileID: 173016, guid: 6af1ada55fbfe1c4f8e894084451d932, type: 2}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 6af1ada55fbfe1c4f8e894084451d932, type: 2}
   m_IsPrefabParent: 0
@@ -3038,7 +3044,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 11.231079, y: 199.568}
+  m_AnchoredPosition: {x: 7, y: 127.55942}
   m_SizeDelta: {x: 123.8, y: 55.5}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1390615334

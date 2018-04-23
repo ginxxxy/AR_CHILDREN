@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.44657868, g: 0.49641263, b: 0.57481706, a: 1}
+  m_IndirectSpecularColor: {r: 0.44657826, g: 0.49641263, b: 0.57481676, a: 1}
 --- !u!157 &3
 LightmapSettings:
   m_ObjectHideFlags: 0
@@ -146,7 +146,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 11.231079, y: 199.568}
+  m_AnchoredPosition: {x: 7, y: 127.55942}
   m_SizeDelta: {x: 123.8, y: 55.5}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &46115649
@@ -1879,6 +1879,10 @@ Prefab:
       propertyPath: m_TagString
       value: wand4
       objectReference: {fileID: 0}
+    - target: {fileID: 106404, guid: ca8bafd9a86d1c84a9a66e519b492835, type: 2}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: ca8bafd9a86d1c84a9a66e519b492835, type: 2}
   m_IsPrefabParent: 0
@@ -2478,6 +2482,10 @@ Prefab:
     - target: {fileID: 115338, guid: d9a3ec0dc2aae4e43af8b98e0eeb7662, type: 2}
       propertyPath: m_TagString
       value: wand2
+      objectReference: {fileID: 0}
+    - target: {fileID: 115338, guid: d9a3ec0dc2aae4e43af8b98e0eeb7662, type: 2}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: d9a3ec0dc2aae4e43af8b98e0eeb7662, type: 2}
@@ -3529,9 +3537,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   wand1: {fileID: 674762685}
-  wand2: {fileID: 1307429547}
-  wand3: {fileID: 2088792588}
-  wand4: {fileID: 1077168414}
+  wand2: {fileID: 0}
+  wand3: {fileID: 0}
+  wand4: {fileID: 0}
 --- !u!4 &2017770408
 Transform:
   m_ObjectHideFlags: 0
@@ -3957,6 +3965,10 @@ Prefab:
     - target: {fileID: 173016, guid: 6af1ada55fbfe1c4f8e894084451d932, type: 2}
       propertyPath: m_TagString
       value: wand3
+      objectReference: {fileID: 0}
+    - target: {fileID: 173016, guid: 6af1ada55fbfe1c4f8e894084451d932, type: 2}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 6af1ada55fbfe1c4f8e894084451d932, type: 2}

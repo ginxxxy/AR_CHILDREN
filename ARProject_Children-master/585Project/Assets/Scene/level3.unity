@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.44657868, g: 0.49641263, b: 0.57481706, a: 1}
+  m_IndirectSpecularColor: {r: 0.44657826, g: 0.49641263, b: 0.57481676, a: 1}
 --- !u!157 &3
 LightmapSettings:
   m_ObjectHideFlags: 0
@@ -2168,7 +2168,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 11.231079, y: 199.568}
+  m_AnchoredPosition: {x: 7, y: 127.55942}
   m_SizeDelta: {x: 123.8, y: 55.5}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1072994760
@@ -2409,6 +2409,10 @@ Prefab:
     - target: {fileID: 106404, guid: ca8bafd9a86d1c84a9a66e519b492835, type: 2}
       propertyPath: m_TagString
       value: wand4
+      objectReference: {fileID: 0}
+    - target: {fileID: 106404, guid: ca8bafd9a86d1c84a9a66e519b492835, type: 2}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: ca8bafd9a86d1c84a9a66e519b492835, type: 2}
@@ -2700,13 +2704,12 @@ MonoBehaviour:
   m_GameObject: {fileID: 1269157362}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 60b6ef5d5690e498eb47f7f9f00d43d2, type: 3}
+  m_Script: {fileID: 11500000, guid: a924ca822ffe84bb9a4eb6ea6655fd5a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   wand1: {fileID: 764205374}
   wand2: {fileID: 1457090294}
   wand3: {fileID: 242218351}
-  wand4: {fileID: 1142332745}
 --- !u!4 &1269157364
 Transform:
   m_ObjectHideFlags: 0
