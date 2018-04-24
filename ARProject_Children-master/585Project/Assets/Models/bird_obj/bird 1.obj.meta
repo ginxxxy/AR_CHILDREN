@@ -1,0 +1,149 @@
+fileFormatVersion: 2
+guid: 1a3fe9244ed0c4677a519a5be1dcbd7e
+timeCreated: 1524421557
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: byellow
+    100004: claws
+    100006: dyellow
+    100008: feather1
+    100010: feather2
+    100012: leg
+    100014: lwing
+    100016: red
+    100018: rwing
+    100020: shblack
+    400000: //RootNode
+    400002: byellow
+    400004: claws
+    400006: dyellow
+    400008: feather1
+    400010: feather2
+    400012: leg
+    400014: lwing
+    400016: red
+    400018: rwing
+    400020: shblack
+    2100000: byellowMat
+    2100002: clawsMat
+    2100004: dyellowMat
+    2100006: feather1Mat
+    2100008: feather2Mat
+    2100010: legMat
+    2100012: lwingMat
+    2100014: redMat
+    2100016: rwingMat
+    2100018: shblackMat
+    2300000: byellow
+    2300002: claws
+    2300004: dyellow
+    2300006: feather1
+    2300008: feather2
+    2300010: leg
+    2300012: lwing
+    2300014: red
+    2300016: rwing
+    2300018: shblack
+    3300000: byellow
+    3300002: claws
+    3300004: dyellow
+    3300006: feather1
+    3300008: feather2
+    3300010: leg
+    3300012: lwing
+    3300014: red
+    3300016: rwing
+    3300018: shblack
+    4300000: byellow
+    4300002: claws
+    4300004: dyellow
+    4300006: feather1
+    4300008: feather2
+    4300010: leg
+    4300012: lwing
+    4300014: red
+    4300016: rwing
+    4300018: shblack
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
