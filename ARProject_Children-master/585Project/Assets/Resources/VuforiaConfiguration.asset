@@ -12,7 +12,11 @@ MonoBehaviour:
   m_Name: VuforiaConfiguration
   m_EditorClassIdentifier: 
   vuforia:
+<<<<<<< HEAD
     vuforiaLicenseKey: AVR85KD/////AAAAmT2r9Nz16k2zgCCiIFX0Ol0bTC7I7Y/InNjSiXFLwo5tV5txStOZFKCEQqmgSgfvB/gP0+tKOJAOBb1bm18prUM84c9uVVdtmY42vIhttuvIGG+RgWqpFKAq62x8+pprahmIyf7Dm6bxxz0qIF7iayt8I2jJzFZSPBHGSH0yPrgC08GdaN0Ij9iMzvq8+XoldVo8XLR/TlJk1o8ji2Ay7XHanrxL08N5Mkmcf5b3N0ljEsi66PsvFsGJIT1Im4sd0GioPULBBPhyCqgvPekb+ZwWdyKdmPJn7icz7PRs6EroTDTMecyQoKPMxZim/yUVBcJZuodtds6Z/Dad6cDFhIqTKlMFxUzZyyp6JShiBKp8
+=======
+    vuforiaLicenseKey: AapCBaf/////AAAAmc2RoWeiRkZJjOxwCQaTW5g4UqBOwNzjgUnM1eVPAgoms4caFgE6ZjWBzX9VjRTq+gkiBXgvLRjA0u7KpgwN2esKlWOMfX8iH9b4Y/Z7JGGdxEooO0XCxT4Yh2rOvCsiZqI8fL5uQrFe4mrdD9LlYgfyHnu1/dRWD8TQmNQ9UXlA0rzEm4KRCwtrFdkcFf5y8qYgr9JgYCPBf5LBI/1nMVqFkTFKTzSSOUabUFC7EzYJIIRNRSUeK6TMpYQp13mWGo+X2WPN7woT9OPXZ33N/acbPdThPoUcAh/2fRHfEC53rVfTv/LUjSuuhtwJ7zMBLvBLpWTKzg0NLAxv965ptzmgv+xVow9lDT+aI4VnZ0d/
+>>>>>>> db0e00aa8033f31a0e50407f100fe7d1f7e04b3b
     ufoLicenseKey: QWRKUGkzci8vLy8vQUFBQUtMdHVqd1RsQUVRQWpielhjQzFlS1d4QSszYzlJYVpNamxqM2ZkNWJOcHlOaTVHcklqUXdwM0dHcWtIMmVhaUlwVitlUzFuQmtjUURRMEVIMmZsbFdwOURUMFN6UmMxdytqVGU2OWFLdTRJNlBnODBJd3d3bWZNQ2crMHdlNjIrSUI2S2xLMlhyM3RITXFFazRPcG9QZ3c1QzU4aWIzUkNiWkJqUFRNYndYTjQyQ002MUgxcGpOYUliNUZrS3U3eEZsL1pmdSt3VVpzaUV4S0l0S3hnMWM0RGwvN0NiWVNZMlFmazhsSjFhRVRUbkdwUWdmdXd6QlYzSzJMekdnV29PSnBhODQ5c3ljSW1jdzFrdm9mTHJEVDdLVEllTUw1OGgvc0JvcnNjQmsxbW93S1VnWFZUQXl1ZFVFMEhUR21FR002dTJ6YzY3dUlPTDhaTVNaZnpkRVc5bnBoeFpONHhuWmpjMy9ncDM1d2c=
     delayedInitialization: 0
     cameraDeviceModeSetting: -1
@@ -44,11 +48,17 @@ MonoBehaviour:
       ContainsMagnet: 0
   databaseLoad:
     dataSetsToLoad:
+<<<<<<< HEAD
     - bacteria_blaster_QR
     - Image_Targets
     - VuforiaMars_VuMark
     dataSetsToActivate:
     - bacteria_blaster_QR
+=======
+    - Image_Targets
+    - VuforiaMars_VuMark
+    dataSetsToActivate:
+>>>>>>> db0e00aa8033f31a0e50407f100fe7d1f7e04b3b
     - Image_Targets
     - VuforiaMars_VuMark
   videoBackground:
